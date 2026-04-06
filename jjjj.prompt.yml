@@ -1,4 +1,6 @@
-messages: []
+messages:
+  - role: system
+    content: create hello world in java
 model: openai/gpt-4o
 testData: []
 evaluators: []
